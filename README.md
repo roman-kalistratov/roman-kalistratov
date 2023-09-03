@@ -15,14 +15,10 @@
   <a target="_blank" href="mailto:kalistratov.rk@gmail.com">
     <img src="https://img.shields.io/badge/gmail-BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a> 
-  <span style="float: right;">
-    <a target="_blank" href="https://romank.co.il/">
-      <img src="https://img.shields.io/badge/Visit%20My%20Website-romank.co.il-186830?style=for-the-badge&logo=external-link&logoColor=white" height=25>
-    </a>
-  </span>
+  <a target="_blank" href="https://romank.co.il/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-romank.co.il-186830?style=for-the-badge&logo=external-link&logoColor=white" height=25>
+  </a> 
 </p>
-
-
 
 ---
 
@@ -45,13 +41,12 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />  
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
   <img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white">
   <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF26BE?style=flat-square&logo=adobe-xd&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=roman-kalistratov)
