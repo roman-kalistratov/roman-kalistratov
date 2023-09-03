@@ -17,6 +17,16 @@ Hi everyone, I'm Roman.I am a passionate and driven individual with a strong des
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/roman-kalistratov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+
+   <p>
+  <a target="_blank" href="https://www.linkedin.com/in/roman-kalistratov/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="mailto:kalistratov.rk@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a>
+</p>
+
 ---
 
 ### Frontend
