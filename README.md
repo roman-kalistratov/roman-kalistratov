@@ -3,8 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there+!;How+are+you+%3F;Nice+to+meet+you+!;My+name+is+Roman+Kalistratov.;I'm+a+Full+stack+developer.;I+like+React+%2B+Node;Have+a+good+day+!!!)](https://git.io/typing-svg)
 
+
+
+
 <a href="https://github.com/roman-kalistratov">
-  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=roman-kalistratov&theme=dark&show_icons=true&hide_border=true" align="right" height="135" />
+  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=roman-kalistratov&theme=vision-friendly-dark&show_icons=true&hide_border=true" align="right" width=40% />
 </a>
 <p>Welcome to my page! </br> I'm Roman, Fullstack Web Developer with more than 2 years of experience. </p>
 
@@ -23,10 +26,11 @@
 ---
 
 <h3>Things I code with</h3>
-
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width=40% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-kalistratov&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  </a>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
@@ -48,18 +52,14 @@
   <img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white">
   <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF26BE?style=flat-square&logo=adobe-xd&logoColor=white">
-  </div>
-  <div style="flex: 1;">
-    <img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-kalistratov&layout=compact&theme=vision-friendly-dark" />
-  </div>
-</div>
+</p>
+
+---
 
 
 
-
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=roman-kalistratov" alt="visitiors"/>
-<img style="display:inline-block !important" src="https://komarev.com/ghpvc/?username=roman-kalistratov&style=flat-square&color=blue" alt="profile views"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=roman-kalistratov" alt="visitiors"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=roman-kalistratov&style=flat-square&color=blue" alt="profile views"/>
 <!--
 Here are some ideas to get you started:
 
