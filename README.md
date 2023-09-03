@@ -1,7 +1,9 @@
 ![header_](https://github.com/roman-kalistratov/roman-kalistratov/assets/80212286/2e2459a1-ffa9-4195-af17-e20381e46ca6)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there+!;How+are+you+%3F;Nice+to+meet+you+!;My+name+is+Roman+Kalistratov.;I'm+a+Full+stack+developer.;I+like+React+%2B+Node;Have+a+good+day+!!!)](https://git.io/typing-svg)
+<p align="right">
 **`Fullstack Developer`**
+</p>
 
 Hi everyone, I'm Roman.I am a passionate and driven individual with a strong desire to learn and grow in the field of web development.
 
