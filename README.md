@@ -7,6 +7,7 @@
 <a href="https://github.com/roman-kalistratov">
   <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=roman-kalistratov&show_icons=true&hide_border=true" align="right" height="135" />
 </a>
+
 Hey everyone! I'm Roman Kalistratov a Full-Stack Web Developer with more than **2 years of experience**. I am a passionate about software engineering, with background in Javascript, React, Node and MongoDb.
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/roman-kalistratov/">
