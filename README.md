@@ -6,7 +6,7 @@
 **`Fullstack Developer`**
 
 <a href="https://github.com/roman-kalistratov">
-  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=roman-kalistratov&show_icons=true&hide_border=true" align="right" height="135" />
+  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=roman-kalistratov&theme=dark&show_icons=true&hide_border=true" align="right" height="135" />
 </a>
 
 <p>Welcome to my page! </br> I'm Roman, Fullstack Web Developer with more than **2 years of experience**. </p>
