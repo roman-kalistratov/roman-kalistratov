@@ -19,6 +19,7 @@ Hey everyone! I'm Roman Kalistratov a Full-Stack Web Developer with more than **
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=roman-kalistratov)
+https://visitor-badge.vercel.app?page_id=roman-kalistratov
 
 ---
 
