@@ -9,7 +9,8 @@
   <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=roman-kalistratov&show_icons=true&hide_border=true" align="right" height="135" />
 </a>
 
-Hey everyone! I'm Roman Kalistratov a Full-Stack Web Developer with more than **2 years of experience**. I am a passionate about software engineering, with background in Javascript, React, Node and MongoDb.
+<p>Welcome to my page! </br> I'm Roman, a Fullstack Web Developer with more than **2 years of experience**. </p>
+
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/roman-kalistratov/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
