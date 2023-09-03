@@ -18,6 +18,8 @@ Hey everyone! I'm Roman Kalistratov a Full-Stack Web Developer with more than **
   </a>
 </p>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=roman-kalistratov)
+
 ---
 
 ### Frontend
