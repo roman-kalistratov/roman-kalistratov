@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there+!;How+are+you+%3F;Nice+to+meet+you+!;My+name+is+Roman+Kalistratov.;I'm+a+Full+stack+developer.;I+like+React+%2B+Node;Have+a+good+day+!!!)](https://git.io/typing-svg)
 
-**`Fullstack Developer`**
-
 <a href="https://github.com/roman-kalistratov">
   <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=roman-kalistratov&theme=dark&show_icons=true&hide_border=true" align="right" height="135" />
 </a>
