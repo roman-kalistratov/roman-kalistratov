@@ -9,7 +9,9 @@
 <a href="https://github.com/roman-kalistratov">
   <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=roman-kalistratov&theme=vision-friendly-dark&show_icons=true&hide_border=true" align="right" width=40% />
 </a>
-<p>Welcome to my page! </br> I'm Roman, Fullstack Web Developer with more than 2 years of experience. </p>
+<p>Welcome to my page! </br> I'm a Full-Stack web developer , an amateur cook, a music enthusiast, and an overall curious individual.
+In my work, I value serious and responsible individuals with a touch of recklessness :) My priorities are high-quality work and a satisfied client. I pay great attention to details when designing and developing my projects. My ultimate goal is to create software that is user-friendly and efficient in achieving the client's objectives.
+When I'm not in front of pixels, I enjoy playing the guitar, listening to rock music, or tinkering with cars. </p>
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/roman-kalistratov/">
